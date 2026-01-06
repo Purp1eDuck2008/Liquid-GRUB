@@ -1,6 +1,6 @@
 # LiquidGlass GRUB Theme
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg) ![GRUB Version](https://img.shields.io/badge/GRUB-2-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg) ![GRUB Version](https://img.shields.io/badge/GRUB-2-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 **LiquidGlass** is a sleek and minimalistic GRUB theme inspired by modern glassmorphic design. It emphasizes clean visuals, smooth animations, and transparent elements, making your boot menu stylish and user-friendly.
 
@@ -22,7 +22,7 @@
 1. Copy the theme folder to the GRUB themes directory:
 
 ```bash
-sudo cp -r LiquidGlass /boot/grub/themes/
+sudo git clone https://github.com/Purp1eDuck2008/Liquid-GRUB.git /boot/grub/themes/LiquidGlass
 ```
 2. Edit the GRUB configuration:
 
@@ -49,3 +49,11 @@ Reboot your system and enjoy the new interface.
 ## Screenshot:
 
 <img width="3072" height="1920" alt="background" src="https://github.com/user-attachments/assets/d28ef926-0a5a-47bb-a7ac-21a8e8a74d2b" />
+
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+---
