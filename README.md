@@ -46,11 +46,16 @@ Reboot your system and enjoy the new interface.
 
 ---
 
-## Screenshot:
+## Screenshots
 
-<img width="3072" height="1920" alt="background" src="https://github.com/user-attachments/assets/d28ef926-0a5a-47bb-a7ac-21a8e8a74d2b" />
+**Light Theme**  
 
----
+<img width="1024" alt="LiquidGlass Light Theme" src="https://github.com/user-attachments/assets/d28ef926-0a5a-47bb-a7ac-21a8e8a74d2b" />
+
+**Dark Theme**  
+
+<img width="1024" alt="LiquidGlass Dark Theme" src="https://github.com/user-attachments/assets/6b308067-73f8-4eca-8a71-1e6231fc05c1" />
+
 
 ## Contributing
 
